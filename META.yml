@@ -1,0 +1,42 @@
+---
+abstract: 'Install the Mock::Person modules.'
+author:
+  - 'Michal Spacek <skim@cpan.org>'
+build_requires:
+  English: 0
+  ExtUtils::MakeMaker: 6.36
+  File::Object: 0.08
+  Test::More: 0
+  Test::NoWarnings: 0
+  Test::Pod: 0
+  Test::Pod::Coverage: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.14'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Mock-Person
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Mock::Person: 1.1.0
+  Mock::Person::CZ: 0.03
+  Mock::Person::DE: 0.04
+  Mock::Person::EN: 0.03
+  Mock::Person::JP::Person: 0.07
+  Mock::Person::SK: 0.03
+  Mock::Person::SK::ROM: 0.01
+  Mock::Person::SV: 0.03
+  perl: 5.6.0
+resources:
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Mock-Person
+  homepage: https://github.com/tupinek/Task-Mock-Person
+  license: http://opensource.org/licenses/bsd-license.php
+  repository: git://github.com/tupinek/Task-Mock-Person
+version: '0.01'
