@@ -1,0 +1,47 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 d7c1c4cffdd48d4e60c0d8436baef8c871351402 Changes
+SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
+SHA1 d30508f5350b0e575bdef6714f74c1fc61227a5c MANIFEST
+SHA1 93d17ddbd4a47a104405316372b07ff1ec40afd4 META.yml
+SHA1 40681a373c7fb65c2354955736081f3a086869bc Makefile.PL
+SHA1 cd371e5a9ca1518137ad9433dde23a25cb3fa755 Person.pm
+SHA1 ffd785cde2e35c3a1298fdf5389dc8977a86e5c0 README
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 62c07eaa5893ff484e6f41762f51cb150e83f572 t/Task-Mock-Person/00-use.t
+SHA1 3d6382d3c75f3f441c6d09d4e06c61cb26004c43 t/Task-Mock-Person/01-version.t
+SHA1 3f412888a6e21b26879971f6810af80b04b87526 t/Task-Mock-Person/02-pod_coverage.t
+SHA1 98789b5a6d8190dcb1b7d5010b1e44240d2c5389 t/Task-Mock-Person/03-pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUwTRlAAoJEJe+XXKaIuTlMrAH/jsYaEaW3d7HPAm8TzcYqwk/
+78JTGsLIWOQKEZWHgXBKdFpI23kIjZyCMcpeo3ZpqvtYdHn8RFNQetJnXJY6Dfh/
+55zTF740Qp+HFkqt1mIfCrYRRXEfxpzjkGmXP4JE9deFuR5R24l6kXJm/sGIi8Oi
+HPH6Dtsv1AuepOoGxvYaXBdVAxC3NuhuREqTo2DBees1cgHHotqrw+xJzLgZVAQH
+CarGO2+Eu4krwtpMp+u8diboRrQlbwjmd5hNdDDWIx7n/zTt0PZsTAoQGcqrxZvZ
+b33qs5YziXJWBUtfQZLvGIGQ79ME+w7/c4gu9S35+IWqf1zs4oLVUoorr5V3Mjw=
+=lpfC
+-----END PGP SIGNATURE-----

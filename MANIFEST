@@ -14,6 +14,7 @@ MANIFEST			This list of files
 META.yml
 Person.pm
 README
+SIGNATURE
 t/Task-Mock-Person/00-use.t
 t/Task-Mock-Person/01-version.t
 t/Task-Mock-Person/02-pod_coverage.t
