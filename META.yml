@@ -26,7 +26,7 @@ no_index:
     - t
 requires:
   Mock::Person: 1.1.0
-  Mock::Person::CZ: 0.03
+  Mock::Person::CZ: 0.04
   Mock::Person::DE: 0.04
   Mock::Person::EN: 0.03
   Mock::Person::JP::Person: 0.07
