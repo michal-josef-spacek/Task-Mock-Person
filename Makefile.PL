@@ -13,7 +13,7 @@ name 'Task-Mock-Person';
 readme_from 'Person.pm';
 requires 'Mock::Person' => '1.1.0';
 requires 'Mock::Person::CZ' => 0.04;
-requires 'Mock::Person::DE' => 0.04;
+requires 'Mock::Person::DE' => 0.05;
 requires 'Mock::Person::EN' => 0.03;
 requires 'Mock::Person::JP::Person' => 0.07;
 requires 'Mock::Person::SK' => 0.03;
