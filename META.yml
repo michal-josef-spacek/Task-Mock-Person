@@ -28,7 +28,7 @@ requires:
   Mock::Person: 1.1.0
   Mock::Person::CZ: 0.04
   Mock::Person::DE: 0.05
-  Mock::Person::EN: 0.03
+  Mock::Person::EN: 0.04
   Mock::Person::JP::Person: 0.07
   Mock::Person::SK: 0.03
   Mock::Person::SK::ROM: 0.01
