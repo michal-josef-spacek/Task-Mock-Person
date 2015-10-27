@@ -1,4 +1,5 @@
 0.02
+ - Move author tests to xt/ directory.
  - Update Mock::Person::CZ to 0.04 version.
  - Update Mock::Person::DE to 0.05 version.
  - Update Mock::Person::EN to 0.04 version.
