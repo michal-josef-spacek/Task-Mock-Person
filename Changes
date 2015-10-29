@@ -1,4 +1,5 @@
 0.03
+ - Fix dependency for Mock::Person::JP.
 
 0.02 2015-10-29T14:15:09+01:00
  - Move author tests to xt/ directory.
