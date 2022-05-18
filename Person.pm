@@ -1,6 +1,5 @@
 package Task::Mock::Person;
 
-# Pragmas.
 use strict;
 use warnings;
 
